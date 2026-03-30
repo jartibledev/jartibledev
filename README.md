@@ -28,10 +28,12 @@
 #### My account of [Anime](https://www.tiktok.com/@two_was_us)
 ---
 ## Languages
-### :es: Spanish (native) 
-### :uk: English (B1 Cambrigde)
-### :de: German (learning)
-### :fr: French (low level)
+| Language | Level |
+|:---|:---:|
+| :es: Spanish (native)| ![](https://geps.dev/progress/100) |
+| :uk: English (B1 Cambrigde) |![](https://geps.dev/progress/80) |
+| :de: German (learning) |  ![](https://geps.dev/progress/10) |
+| :fr: French (low level) |  ![](https://geps.dev/progress/25) |
 ---
 ## Academic training
 >### Universidad de Málaga (UMA) (Arts Degree, 2018-2023)
