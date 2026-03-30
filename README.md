@@ -4,8 +4,8 @@
 ### a *graphic designer* passionate about *UI/UX* who loves drawing illustrations and learn guitar 
 ---
 ## Tecnologies
-| Program Leanguages | FrameWorks / Libraries |
-| :--- | :--- |
+| Program Leanguages | FrameWorks / Libraries | Projects | 
+| :--- | :--- | :--- |
 | Javascript |  React |
 | Java | Swing |
 | Python | Tkinter / CustomKinter / GTK |
