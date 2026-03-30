@@ -11,6 +11,14 @@
 | Python | Tkinter / CustomKinter / GTK |
 | C++ | Vulkan / OpenGL |
 ---
+| Area | Tools |
+| :--- | :--- |
+| Design UI | <p align = "left"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></p> |
+| Page layout design | <p align = "left"><img src= "https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" /> </p> |
+| Vectorial illustration | <p align = "left"> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> </p> |
+| Photography | <p align = "left"><img src = "https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" /><img src = "https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/> |
+| Illustration | <p align = "left"><img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" /> </p> |
+
 ## Interests:
 ### Art
 >##### This is my artwork which I make with love:
@@ -18,7 +26,7 @@
 #### My account of [Anime](https://www.tiktok.com/@two_was_us)
 ---
 ## Languages
-### :es: Spanish (native)
+### :es: Spanish (native) 
 ### :uk: English (B1 Cambrigde)
 ### :de: German (learning)
 ### :fr: French (low level)
