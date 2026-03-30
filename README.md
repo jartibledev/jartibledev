@@ -4,6 +4,7 @@
 ### a *graphic designer* passionate about *UI/UX* who loves drawing illustrations and learn guitar 
 ---
 ## Tecnologies
+### Dev tools
 | Program Leanguages | FrameWorks / Libraries | Projects | 
 | :---: | :--- | :--- |
 | ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)| <p align="center"> <img src= "https://strudel.cc/icons/strudel_icon.png" width="20" height="auto" />&nbsp;&nbsp;<img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>  |
@@ -13,6 +14,7 @@
 | ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Tkinter / CustomKinter / GTK |
 |![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulkan.svg/960px-Vulkan.svg.png" width="auto" height="20" /><t> </t><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/250px-OpenGL_logo.svg.png" width="auto" height="20"> </p>  |
 ---
+### Design tools
 | Area | Tools | Projects |
 | :--- | :--- | :--- |
 | Design UI | <p align = "left"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></p> |
