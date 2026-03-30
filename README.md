@@ -38,8 +38,8 @@
 | :fr: French (low level) |  ![](https://geps.dev/progress/25) |
 ---
 ## Academic training
->### Universidad de Málaga (UMA) (Arts Degree, 2018-2023)
->### Universitat Politecnica de Valéncia (UPV) (Máster`s degree of Illustration and Design 2023-developing TFM)
+>### [Universidad de Málaga (UMA)](https://www.uma.es) (Arts Degree, 2018-2023)
+>### [Universitat Politecnica de Valéncia (UPV)](https://www.upv.es) ( (Máster`s degree of Illustration and Design 2023-developing TFM)
 ### Courses
 | Tool / Formation | Course |
 | :--- | :--- |
