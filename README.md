@@ -46,5 +46,8 @@
 | Indesing | Adobe Indesing`s extension college course of UMA |
 | Illustrator | Adobe Illustrator`s extension college course of UMA |
 | Textil illustration | Textil illustration`s extension college course of UMA |
-
+---
+## Contact me
+### [Linkdln](https://www.linkedin.com/in/sergio-maya-l%C3%B3pez-6981b331a)
+### [Email](jartibledev@proton.me)
 
