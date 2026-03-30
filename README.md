@@ -16,6 +16,11 @@
 >##### This is my artwork which I make with love:
 #### My account of [Ilustration](https://www.tiktok.com/@quietwheniamcomehome) 
 #### My account of [Anime](https://www.tiktok.com/@two_was_us)
-
+---
+## Languages
+### :es: Spanish (native)
+### :uk: English (B1 Cambrigde)
+### :de: German (learning)
+### :fr: French (low level)
 
 
