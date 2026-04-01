@@ -60,7 +60,7 @@
  <img src = "https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg" width ="auto" height= "auto" /> 
  </a> 
  <a href= "jartibledev@proton.me" > 
- <img src = "images_profile/pngfind.com-white-png-icons-5577850.png" width ="20" height= "auto" /> 
+ <img src = "images_profile/pngfind.com-white-png-icons-5577850.png" width ="30" height= "auto" /> 
  </a>
 </p>
 <!--[![Email](images_profile/pngfind.com-white-png-icons-5577850.png)](jartibledev@proton.me) --> 
