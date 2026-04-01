@@ -49,7 +49,7 @@
 ---
 ## Formación académica:
 >### [Universidad de Málaga (UMA)](https://www.uma.es) (Bellas Artes, 2018-2023)
->### [Universitat Politecnica de Valéncia (UPV)](https://www.upv.es) ( (Maste de Diseño e Illustración, 2023-developing TFM)
+>### [Universitat Politecnica de Valéncia (UPV)](https://www.upv.es) ( (Master de Diseño e Illustración, 2023-developing TFM)
 ### Cursos
 | Programa / Sector laboral | Curso |
 | :--- | :--- |
