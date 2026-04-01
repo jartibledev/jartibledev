@@ -1,7 +1,7 @@
 >[!NOTE]
 >En este perfil también hay enlaces para acceder a traducciones en inglés, alemán y francés.
 
-# [:en:](README.md) [:de:](README_DE.md) [:fr:](README_FR.md) 
+# [:uk:](README.md) [:de:](README_DE.md) [:fr:](README_FR.md) 
 >#### *"If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."* - *The Art of War* by **Sun Tzu**
 
 # Hola! Soy Sergio
