@@ -29,9 +29,8 @@
 
 >##### This is my artwork which I make with love:
 [![Profile iCouldLie](images_profile/iCouldLie.jpg)](https://www.tiktok.com/@quietwheniamcomehome)
-
 #### [iCouldLie](https://www.tiktok.com/@quietwheniamcomehome)
-[![Profile two_was_two](images_profile/two_was_two)](https://www.tiktok.com/@two_was_us)
+[![Profile two_was_two](images_profile/two_was_two.jpg)](https://www.tiktok.com/@two_was_us)
 #### [Two was two](https://www.tiktok.com/@two_was_us)
 
 
