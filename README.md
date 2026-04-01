@@ -53,8 +53,17 @@
 | Illustrator | Adobe Illustrator`s extension college course of UMA |
 | Textil illustration | Textil illustration`s extension college course of UMA |
 ---
+[![Email](images_profile/pngfind.com-white-png-icons-5577850.png)](jartibledev@proton.me) 
+[![Linkdln](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/sergio-maya-l%C3%B3pez-6981b331a)
+
 ## Contact me
- [![Linkdln](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/sergio-maya-l%C3%B3pez-6981b331a)
- <p><img src = "https://www.vhv.rs/dpng/d/224-2246052_white-email-icon-transparent-background-transparent-background-email.png" width ="20" height= "auto" /> </p>
- <!--[![Email](](jartibledev@proton.me)-->
+<p align = "left">
+ <a href= "https://www.linkedin.com/in/sergio-maya-l%C3%B3pez-6981b331a" > 
+ <img src = "https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg" width ="auto" height= "auto" /> 
+ </a> 
+ <a href= "jartibledev@proton.me" > 
+ <img src = "images_profile/pngfind.com-white-png-icons-5577850.png" width ="20" height= "auto" /> 
+ </a>
+</p>
+
 
