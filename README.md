@@ -24,12 +24,17 @@
 | Illustration | <p align = "left"><img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" /> </p> |  Fanart: [Anime](https://www.tiktok.com/@quietwheniamcomehome/video/7527694122442902806?is_from_webapp=1&sender_device=pc&web_id=7500310125333988886) <br/> Digital Painting: [Terror Illustration](https://www.tiktok.com/@quietwheniamcomehome/video/7584111792876522774?is_from_webapp=1&sender_device=pc&web_id=7500310125333988886) <br/> Advertising Illustration: [C.O](https://www.behance.net/gallery/206085157/CO-ad-illustration-project-%28fictional-project%29) |
 
 ## Interests:
+
 ### Art
+
 >##### This is my artwork which I make with love:
 [![Profile iCouldLie](images_profile/iCouldLie.jpg)](https://www.tiktok.com/@quietwheniamcomehome)
+
 #### [iCouldLie](https://www.tiktok.com/@quietwheniamcomehome)
 [![Profile two_was_two](images_profile/two_was_two.jpg)](https://www.tiktok.com/@two_was_us)
 #### [Two was two](https://www.tiktok.com/@two_was_us)
+
+
 ---
 ## Languages
 | Language | Level |
