@@ -54,6 +54,7 @@
 | Textil illustration | Textil illustration`s extension college course of UMA |
 ---
 ## Contact me
-### [Linkdln](https://www.linkedin.com/in/sergio-maya-l%C3%B3pez-6981b331a)
-### [Email](jartibledev@proton.me)
+ [![Linkdln](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/sergio-maya-l%C3%B3pez-6981b331a)
+ <p><img src = "https://www.vhv.rs/dpng/d/224-2246052_white-email-icon-transparent-background-transparent-background-email.png" width ="20" height= "auto" /> </p>
+ <!--[![Email](](jartibledev@proton.me)-->
 
