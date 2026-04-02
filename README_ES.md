@@ -4,7 +4,7 @@
 # [:uk:](README.md) [:de:](README_DE.md) [:fr:](README_FR.md) 
 >#### *"Si conoces a los demás y te conoces a ti mismo, ni en cien batallas correrás peligro; si no conoces a los demás, pero te conoces a ti mismo, perderás una batalla y ganarás otra; si no conoces a los demás ni te conoces a ti mismo, correrás peligro en cada batalla."* - *El arte de la Guerra* de **Sun Tzu**
 
-# Hola! Soy Sergio
+# Hola! Soy Sergio,
 ### un diseñador gráfico obsecionado por *UI/UX* (y también por la programación) que dibuja en sus tiempos libres e intenta aprender a tocar la guitarra  
 ---
 ## Tecnologías
