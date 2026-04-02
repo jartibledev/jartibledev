@@ -2,7 +2,8 @@
 >En este perfil también hay enlaces para acceder a traducciones en inglés, alemán y francés.
 
 # [:uk:](README.md) [:de:](README_DE.md) [:fr:](README_FR.md) 
->#### *"If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."* - *The Art of War* by **Sun Tzu**
+>#### *"Si conoces a los demás y te conoces a ti mismo, ni en cien batallas correrás peligro; si no conoces a los demás, pero te conoces a ti mismo, perderás una batalla y ganarás otra; si no co-
+noces a los demás ni te conoces a ti mismo, correrás peligro en cada batalla."* - *El arte de la Guerra* de **Sun Tzu**
 
 # Hola! Soy Sergio
 ### un diseñador gráfico obsecionado por *UI/UX* (y también por la programación) que dibuja en sus tiempos libres e intenta aprender a tocar la guitarra  
