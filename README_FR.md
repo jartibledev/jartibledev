@@ -2,7 +2,7 @@
 >En este perfil también hay enlaces para acceder a traducciones en inglés, alemán y francés.
 
 # [:uk:](README.md) [:de:](README_DE.md) [:es:](README_ES.md) 
->#### *"Connais ton ennemi et connais-toi toi-même ; eussiez-vous cent guerres à soutenir, cent fois vous serez victorieux.Si tu ignores ton ennemi et que tu te connais toi-même, tes chances de perdre et de gagner seront égales.Si tu ignores à la fois ton ennemi et toi-même, tu ne compteras tes combats que par tes défaites."* - *L'Arte de la Guerre* du **Sun Tzu**
+>#### *"Connais ton ennemi et connais-toi toi-même ; eussiez-vous cent guerres à soutenir, cent fois vous serez victorieux. Si tu ignores ton ennemi et que tu te connais toi-même, tes chances de perdre et de gagner seront égales.Si tu ignores à la fois ton ennemi et toi-même, tu ne compteras tes combats que par tes défaites."* - *L'Arte de la Guerre* du **Sun Tzu**
 
 # Salut! Je suis Sergio,
 ### je suis un designer graphique qui aime *UI/UX* (et aussi pour le programmation) que designe en son temps libre et tenter apprendre a jouer de la guitare.
