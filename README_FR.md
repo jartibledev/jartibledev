@@ -1,5 +1,5 @@
 >[!NOTE]
->Ce profil contient également des liens permettant d'acceder aux traductions en anglais, en allemand et en français
+>Ce profil contient également des liens permettant d'acceder aux traductions en anglais, en allemand et en espagnol.
 
 # [:uk:](README.md) [:de:](README_DE.md) [:es:](README_ES.md) 
 >#### *"Connais ton ennemi et connais-toi toi-même ; eussiez-vous cent guerres à soutenir, cent fois vous serez victorieux. Si tu ignores ton ennemi et que tu te connais toi-même, tes chances de perdre et de gagner seront égales.Si tu ignores à la fois ton ennemi et toi-même, tu ne compteras tes combats que par tes défaites."* - *L'Arte de la Guerre* du **Sun Tzu**
