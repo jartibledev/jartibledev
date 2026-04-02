@@ -15,7 +15,7 @@
 | ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
 | ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | <p align = "center" ><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/960px-Java_programming_language_logo.svg.png" width="20" height="auto" /> </p> | Swing |
-| ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Tkinter / CustomKinter / GTK | [Monochromatic Palette Generator](https://github.com/jartibledev/plugin-monochromatic-palette-generator.git) [Automatization in pixel art](https://github.com/jartibledev/plugin-generate-palette-to-step-gradient.git)
+| ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Tkinter / CustomKinter / GTK | [Monochromatic Palette Generator](https://github.com/jartibledev/plugin-monochromatic-palette-generator.git) <br/> [Automatization in pixel art](https://github.com/jartibledev/plugin-generate-palette-to-step-gradient.git)
 |![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Vulkan.svg/960px-Vulkan.svg.png" width="auto" height="20" /><t> </t><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/OpenGL_logo.svg/250px-OpenGL_logo.svg.png" width="auto" height="20"> </p>  |
 ---
 ### Design tools
