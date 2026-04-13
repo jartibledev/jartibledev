@@ -4,8 +4,8 @@
 # [:es:](README_ES.md) [:de:](README_DE.md) [:fr:](README_FR.md) 
 >#### *"If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."* - *The Art of War* by **Sun Tzu**
 
-# I`m Sergio
-### a *graphic designer* passionate about *UI/UX* who enjoys of drawing illustrations and learn guitar 
+# hi! I`m Sergio
+### I specialize in Design UI and Graphic Design . Always I love experiment with new forms of artistic expression, such as code. I consider coding as a form to create new pleasant experiences for the user. In my free times you can find me trying to learn guitar and drawing illustrations. I like a good challenge and opportunities to meet diferent connections, so let's connect! 
 ---
 ## Tecnologies
 ### Dev tools
